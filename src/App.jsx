@@ -5,8 +5,6 @@ import Home from './pages/Home.jsx'
 import Catalogo from './pages/Catalogo.jsx'
 import Contacto from './pages/Contacto.jsx'
 
-// Aquí defines las "páginas" del sitio.
-// Cada <Route> es una URL distinta dentro de la misma app.
 function App() {
   return (
     <div className="min-h-screen flex flex-col">

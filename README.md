@@ -1,4 +1,4 @@
-# Catálogo Empresa Seguridad
+# Grupo-Protekta
 
 ## Setup inicial (solo la primera vez)
 
@@ -12,9 +12,9 @@ Abre http://localhost:5173
 ## Flujo de trabajo en equipo
 
 1. Nunca hacer push directo a `main`.
-2. Crear una rama por tarea: `git checkout -b feature/header`
+2. Crear una rama por tarea
 3. Hacer commits pequeños y claros.
-4. Subir la rama: `git push origin feature/header`
+4. Subir la rama
 5. Abrir un Pull Request en GitHub hacia `main`.
 6. Esperar revisión antes de mergear.
 
@@ -23,7 +23,7 @@ Abre http://localhost:5173
 - Persona A → `src/components/Header.jsx`, `src/components/Footer.jsx`
 - Persona B → `src/pages/Home.jsx`
 - Persona C → `src/pages/Catalogo.jsx`, `src/components/ProductCard.jsx`
-- Nivel medio → estructura base, `src/pages/Contacto.jsx`, revisión de PRs
+- Persona D → estructura base, `src/pages/Contacto.jsx`, revisión de PRs
 
 ## Datos de productos
 

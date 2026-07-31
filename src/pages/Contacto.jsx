@@ -1,4 +1,4 @@
-// TODO (nivel medio): conectar este formulario a Formspree o EmailJS
+// TODO: conectar este formulario a Formspree o EmailJS
 function Contacto() {
   return (
     <section className="px-6 py-10 max-w-xl mx-auto">

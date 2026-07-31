@@ -1,7 +1,6 @@
 import productos from '../data/productos.json'
 import ProductCard from '../components/ProductCard.jsx'
 
-// .map() recorre el arreglo de productos y crea una ProductCard por cada uno
 function Catalogo() {
   return (
     <section className="px-6 py-10">
