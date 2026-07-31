@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cámara domo 1080p",
+    "descripcion": "Cámara de seguridad interior con visión nocturna.",
+    "imagen": "https://placehold.co/400x300?text=Camara+Domo"
+  },
+  {
+    "id": 2,
+    "nombre": "Kit de alarma residencial",
+    "descripcion": "Sistema de alarma con sensores de movimiento y sirena.",
+    "imagen": "https://placehold.co/400x300?text=Kit+Alarma"
+  },
+  {
+    "id": 3,
+    "nombre": "Cerradura inteligente",
+    "descripcion": "Control de acceso vía app móvil.",
+    "imagen": "https://placehold.co/400x300?text=Cerradura+Inteligente"
+  }
+]
