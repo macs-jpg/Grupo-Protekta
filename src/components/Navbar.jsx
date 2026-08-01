@@ -22,7 +22,7 @@ function Navbar() {
                 className={`fixed inset-0 bg-black/40 z-40 md:hidden transition-opacity 
                 ${menuAbierto ? 'opacity-100' : 'opacity-0 pointer-events-none'}`} onClick={() => setMenuAbierto(false)}
             />
-
+            
             {/* Menú lateral desplegable */}
             <div className={`fixed top-0 right-0 h-screen w-64 bg-surface z-50 p-6 flex flex-col gap-6 md:hidden transition-transform duration-300 ${menuAbierto ? 'translate-x-0' : 'translate-x-full'}`}>
                 <Link to="/" onClick={() => setMenuAbierto(false)} className="hover:text-primary transition">Inicio</Link>
