@@ -1,11 +1,18 @@
+import Carousel from "../components/Carousel"
+
 function Home() {
   return (
   <>
     {/* hero */}
-    <section className="px-6  relative overflow-hidden h-[70vh]">
-      <div className="absolute inset-0 bg-cover bg-center "
-       style={{ backgroundImage: "url('https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+Equipo+Protekta')" }}/> 
-      <div className="absolute inset-0 bg-white/40" />
+    <section className="  relative overflow-hidden aspect-video">
+      <Carousel 
+      imagenes={[
+        'https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+1',
+        'https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+2',
+        'https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+3',
+      ]}
+      className="w-full h-full "
+      />
     </section>
     
     {/* Quienes somos*/}
