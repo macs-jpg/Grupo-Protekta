@@ -1,6 +1,5 @@
-import { Link } from 'react-router-dom'
-import Navbar from './Navbar.jsx'
-
+import { Link } from "react-router-dom";
+import Navbar from "./Navbar.jsx";
 
 // reemplazar "protekta" por el logo real cuando llegue
 function Header() {
@@ -9,7 +8,7 @@ function Header() {
       <span className="font-bold text-lg text-ink">PROTEKTA</span>
       <Navbar></Navbar>
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;
