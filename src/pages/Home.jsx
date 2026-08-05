@@ -1,5 +1,7 @@
 import Carousel from "../components/Carousel";
 import Card from "../components/ui/card";
+import { Link } from "react-router-dom";
+
 const valores = [
   {
     // aquí va una imagen que represente el valor
@@ -64,6 +66,22 @@ function Home() {
             </Card>
           ))}
         </div>
+      </section>
+
+      {/* Call to action */}
+      <section className=" bg-ink  px-6 py-16 text-center">
+        <h2 className=" text-3xl font-bold text-white">
+          ¿Listo para mejorar tu seguridad/equipo?
+        </h2>
+        <p className="text-white/70 mt-3">
+          Contactanos hoy y cotiza tu equipo de seguridad!
+        </p>
+        <Link
+          to="/contacto"
+          className="inline-block mt-6 bg-primary text-white px-6 py-3 rounded-md font-medium hover:bg-primary-dark transition"
+        >
+          Contáctanos
+        </Link>
       </section>
     </>
   );
