@@ -1,3 +1,4 @@
+//En button se le agrego el {...props} en la linea 10 para que pudiera funcionar de manera correcta y se corrigieron algunos errores de sintaxis de la linea 4 y 5
 function Button({ children, variant = "primary", ...props }) {
   const estilos = {
     primary: "bg-primary text-white hover:bg-primary-dark",
