@@ -14,7 +14,18 @@
       "accesorios": "Funda de transporte",
       "uso":"Seguridad, Defensa y Control"
     },
-    "imagenes": ["baston_img1", "baston_img2", "baston_img3", "baston_img4", "baston_img5"]
+    "imagenes":
+    [
+      "/catalogo/baston_img1.png",
+      "/catalogo/baston_img2.png",
+      "/catalogo/baston_img3.png",
+      "/catalogo/baston_img4.png",
+      "/catalogo/baston_img5.png",
+      "/catalogo/baston_img6.png",
+      "/catalogo/baston_img7.png",
+      "/catalogo/baston_img8.png",
+      "/catalogo/baston_img9.png"
+    ]
 
   },
 
@@ -30,7 +41,14 @@
       "material": "Fabricada con piel supreme leather, con tecnologia microporo para transpiracion y resistencia al desgarre, textil permatex mantiene el pie fresco y la plantilla ergotech aporta confort y estabilidad ",
       "accesorios": "Cierre lateral"
     },
-    "imagenes": ["botas_img1", "botas_img2", "botas_img3", "botas_img4"]
+    "imagenes": 
+    [
+      "/catalogo/botas_img1.png",
+      "/catalogo/botas_img2.png",
+      "/catalogo/botas_img3.png",
+      "/catalogo/botas_img4.png",
+      "/catalogo/botas_img5.png"
+    ]
   },
 
   {
@@ -46,7 +64,7 @@
       "accesorios": "2 bolsas frontales, 2 bolsas ocultas, Cierre con abotonadura oculta al frente de la tapa",
       "tipo de cuello": "Sport"
     },
-    "imagenes": ["camisola_img1", "camisola_img2", "camisola_img3", "camisola_img4"]
+    "imagenes": ["https://placehold.co/400x300?text=Camisola+Tactica"]
   },
 
   {
@@ -60,7 +78,15 @@
       "caracteristicas": "Doble visor, Carcasa de material ABS",
       "tallas": "CH, M, G"
     },
-    "imagenes": ["casco_img1", "casco_img2", "casco_img3", "casco_img4"]
+    "imagenes": 
+    [
+      "/catalogo/cascom_img1.jpeg",
+      "/catalogo/cascom_img2.jpeg",
+      "/catalogo/cascom_img3.jpeg",
+      "/catalogo/cascom_img4.jpeg",
+      "/catalogo/cascom_img5.jpeg",
+      "/catalogo/cascom_img6.jpeg"
+    ]
   },
 
   {
@@ -78,7 +104,16 @@
       "caracteristicas": "Resistencia magnun .44, Garantizando seguridad Maxima",
       "lugar de fabricacion": "Kevlar"
     },
-    "imagenes": ["casco_img1", "casco_img2", "casco_img3", "casco_img4"]
+    "imagenes": 
+    [
+      "/catalogo/cascotb_img1.png",
+      "/catalogo/cascotb_img2.png",
+      "/catalogo/cascotb_img3.png",
+      "/catalogo/cascotb_img4.png",
+      "/catalogo/cascotb_img5.png",
+      "/catalogo/cascotb_img6.png",
+      "/catalogo/cascotb_img7.png"
+    ]
   },
 
   {
@@ -95,7 +130,11 @@
       "asa de arrastre": "Ubicada en la espalda a la altura del cuello para extraccion rapida",
       "material": "Poliester con malla de alta durabilidad y confort"
     },
-    "imagenes": ["chaleco_img1"]
+    "imagenes": 
+    [
+      "/catalogo/chaleco_img1.png",
+      "/catalogo/chaleco_img2.png"
+    ]
   },
 
   {
@@ -110,7 +149,11 @@
       "material": "Tela tipo neopreno con el interior afelpado",
       "tallas": "Talla de la 36 a la 44"
     },
-    "imagenes": ["chamarra_img1", "chamarra_img2"]
+    "imagenes": 
+    [
+      "/catalogo/chamarra_img1.png",
+      "/catalogo/chamarra_img2.png"
+    ]
   },
 
   {
@@ -125,7 +168,11 @@
       "accesorios": "2 bolsas laterales en diagonal para manos",
       "tallas": "Talla de la 36 a la 44"
     },
-    "imagenes": ["chamarrac_img1", "chamarrac_img2"]
+    "imagenes": 
+    [
+      "/catalogo/chamarra8_img1.png",
+      "/catalogo/chamarra8_img2.png"
+    ]
   },
 
   {
@@ -140,7 +187,17 @@
       "material": "Nylon de alta resistencia",
       "hebilla": "Metalica de rapida liberacion 6.5 x 5 cm  "
     },
-    "imagenes": ["cinturon_img1", "cinturon_img2", "cinturon_img3", "cinturon_img4", "cinturon_img5"]
+    "imagenes": 
+    [
+      "/catalogo/cinturon_img1.png",
+      "/catalogo/cinturon_img2.png",
+      "/catalogo/cinturon_img3.png",
+      "/catalogo/cinturon_img4.png",
+      "/catalogo/cinturon_img5.png",
+      "/catalogo/cinturon_img6.png",
+      "/catalogo/cinturon_img7.png",
+      "/catalogo/cinturon_img8.png"
+    ]
   },
 
   {
@@ -156,7 +213,14 @@
       "resistencia": "resiste al menos 500 lbs",
       "apertura": "5.18 cms"
     },
-    "imagenes": ["esposas_img1","esposas_img2", "esposas_img3"]
+    "imagenes": 
+    [
+      "/catalogo/esposas_img1.png",
+      "/catalogo/esposas_img2.png",
+      "/catalogo/esposas_img3.png",
+      "/catalogo/esposas_img4.png",
+      "/catalogo/esposas_img5.png"
+    ]
   },
 
   {
@@ -174,7 +238,13 @@
       "longitud": "60 cm (eje principal), 14 cm (Asa perpendicular)",
       "textura": "Texturizado 360 grados en zona de agarre"
     },
-    "imagenes":["bastonp_img1","bastonp_img2","bastonp_img3"]
+    "imagenes":
+    [
+      "/catalogo/bastonp_img1.png",
+      "/catalogo/bastonp_img2.png",
+      "/catalogo/bastonp_img3.png",
+      "/catalogo/bastonp_img4.png"
+    ]
   },
 
   {
@@ -195,7 +265,10 @@
       "diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
       "versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
-    "imagenes": ["codera_img1"]
+    "imagenes": 
+    [
+      "/catalogo/coderas_img1.png"
+    ]
   },
 
   {
@@ -216,7 +289,10 @@
       "diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
       "versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
-    "imagenes":["rodillera_img1", "rodillera_img2"]
+    "imagenes":
+    [
+      "/catalogo/rodilleras_img1.png"
+    ]
   },
 
   {
@@ -240,7 +316,7 @@
       "valvulas de goma": "Permiten una transpiracion efectiva, manteniendo frescas las manos del usuario",
       "cinta ajustable" : "Cinnta de color negro para un ajuste seguro y personalizado"
     },
-    "imagenes": ["guantes_img1"]
+    "imagenes": ["https://placehold.co/400x300?text=Guantes+para+Motociclista"]
   },
 
   {
@@ -262,6 +338,10 @@
       "uso en pantallas": "Compatible en pantallas tactiles",
       "cinta": "Color negro"
     },
-    "imagenes": ["guantes_img1"]
+    "imagenes": 
+    [
+      "/catalogo/guantes_img1.png",
+      "/catalogo/guantes_img2.png"
+    ]
   }
 ]
