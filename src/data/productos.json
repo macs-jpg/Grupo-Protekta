@@ -2,17 +2,18 @@
   {
     "id": 1,
     "nombre": "Bastón retráctil",
-    "descripcion": "Bastón retráctil altamente funcional, diseñado para uso de seguridad, defensa y control. Su sistema  retráctil  permite una rapido despliegue y transporte discreto, brindando confianza y efectividad en situaciones de riesgo.",
+    "descripcion": "Bastón retráctil altamente funcional, diseñado para uso de seguridad, defensa y control.", 
+    "descripcion2": "Su sistema retráctil permite un rapido despliegue y transporte discreto, brindando confianza y efectividad en situaciones de riesgo.",
     "especificaciones": 
     {
-      "marca": "Streetwise",
-      "material": "Acero de alta resistencia",
-      "mango": "Antideslizante",
-      "largo extendido": "26 pulgadas (aprox. 66 cm)",
-      "color": "Negro Mate",
-      "peso": "Liviano y portatil",
-      "accesorios": "Funda de transporte",
-      "uso":"Seguridad, Defensa y Control"
+      "Marca": "Streetwise",
+      "Material": "Acero de alta resistencia",
+      "Mango": "Antideslizante",
+      "Largo Extendido": "26 pulgadas (aprox. 66 cm)",
+      "Color": "Negro Mate",
+      "Peso": "Liviano y portatil",
+      "Accesorios": "Funda de transporte",
+      "Uso":"Seguridad, Defensa y Control"
     },
     "imagenes":
     [
@@ -34,12 +35,13 @@
     "nombre": "Botas tácticas",
     "descripcion": "Botas tácticas altamente efectivas para trabajo rudo, diseñadas para uso de elementos de seguridad con una gran transpiracion gracias a la  piel supreme leather con tecnologia microporo",
     "especificaciones": {
-      "marca": "Duty gear",
-      "color": "Negro",
-      "tamaño (altura)": "10 pulgadas",
-      "suela": "100% de hule, brinda gran traccion y resistencia a la abracion",
-      "material": "Fabricada con piel supreme leather, con tecnologia microporo para transpiracion y resistencia al desgarre, textil permatex mantiene el pie fresco y la plantilla ergotech aporta confort y estabilidad ",
-      "accesorios": "Cierre lateral"
+      "Marca": "Duty gear",
+      "Color": "Negro",
+      "Tamaño (Altura)": "10 pulgadas",
+      "Suela": "100% de hule, brinda gran traccion y resistencia a la abracion",
+      "Material": "Fabricada con piel supreme leather, con tecnologia microporo para transpiracion y resistencia al desgarre",
+      "Textil": "Permatex mantiene el pie fresco y la plantilla ergotech aporta confort y estabilidad ",
+      "Accesorios": "Cierre lateral"
     },
     "imagenes": 
     [
@@ -57,12 +59,12 @@
     "descripcion": "Perfecta para uso profesional, su corte tactico y su buen material proporcionan comodidad y funcionalidad",
     "especificaciones":
     {
-      "marca": "Tony",
-      "material": "Tela Ripston teflon con aplicacion repelente al agua y manchas, 65% poliester - 35% algodon",
-      "color": "Negro azul o marino",
-      "tallas": "S, M, L, XL",
-      "accesorios": "2 bolsas frontales, 2 bolsas ocultas, Cierre con abotonadura oculta al frente de la tapa",
-      "tipo de cuello": "Sport"
+      "Marca": "Tony",
+      "Material": "Tela Ripston teflon con aplicacion repelente al agua y manchas, 65% poliester - 35% algodon",
+      "Color": "Negro azul o marino",
+      "Tallas": "S, M, L, XL",
+      "Accesorios": "2 bolsas frontales, 2 bolsas ocultas, Cierre con abotonadura oculta al frente de la tapa",
+      "Tipo de cuello": "Sport"
     },
     "imagenes": ["https://placehold.co/400x300?text=Camisola+Tactica"]
   },
@@ -70,13 +72,14 @@
   {
     "id": 4,
     "nombre": "Casco para motociclista",
-    "descripcion": "Proporciona comodidad y proteccion gracias a su doble visor, interior acolchado y carcasa de material ABS",
+    "descripcion": "Proporciona comodidad y proteccion gracias a su doble visor", 
+    "descripcion2": "Interior acolchado y carcasa de material ABS",
     "especificaciones":
     {
-      "marca": "Bruum",
-      "color": "Acabado mate",
-      "caracteristicas": "Doble visor, Carcasa de material ABS",
-      "tallas": "CH, M, G"
+      "Marca": "Bruum",
+      "Color": "Acabado mate",
+      "Caracteristicas": "Doble visor, Carcasa de material ABS",
+      "Tallas": "CH, M, G"
     },
     "imagenes": 
     [
@@ -95,40 +98,39 @@
     "descripcion": "Diseño para fuerzas de seguridad y operaciones tacticas, este casco ofrece proteccion avanzada sin comprometer movilidad",
     "especificaciones":
     {
-      "marca": "Armor Life Lab",
-      "nivel balistico": "III-A, Cumpliendo las normas NIJ-STD-0106.01 y HPW-TP-0401,01",
-      "talla": "Unitalla, ajuste adaptable para diferentes usuarios",
-      "peso": "1.6 kg + 100 g (aprox.) Equilibrando proteccion y comodidad",
-      "colores": "Negro, Verde, Coyote",
-      "resistencia": "Anti-Fragmentacion, Cumple con el estandar militar 662F",
-      "caracteristicas": "Resistencia magnun .44, Garantizando seguridad Maxima",
-      "lugar de fabricacion": "Kevlar"
+      "Marca": "Armor Life Lab",
+      "Nivel balistico": "III-A, Cumpliendo las normas NIJ-STD-0106.01 y HPW-TP-0401,01",
+      "Talla": "Unitalla, ajuste adaptable para diferentes usuarios",
+      "Peso": "1.6 kg + 100 g (aprox.) Equilibrando proteccion y comodidad",
+      "Colores": "Negro, Verde, Coyote",
+      "Resistencia": "Anti-Fragmentacion, Cumple con el estandar militar 662F",
+      "Caracteristicas": "Resistencia magnun .44, Garantizando seguridad Maxima",
+      "Lugar de fabricacion": "Kevlar"
     },
     "imagenes": 
     [
       "/catalogo/cascotb_img1.png",
       "/catalogo/cascotb_img2.png",
-      "/catalogo/cascotb_img3.png",
-      "/catalogo/cascotb_img4.png",
+      "/catalogo/cascotb_img3.png", 
       "/catalogo/cascotb_img5.png",
-      "/catalogo/cascotb_img6.png",
-      "/catalogo/cascotb_img7.png"
+      "/catalogo/cascotb_img6.png"
     ]
   },
 
   {
     "id": 6,
     "nombre": "Chaleco Tactico",
-    "descripcion": "Brinda durabilidad, funcionalidad y un ajuste seguro, esta fabricado en poliester de alta resistencia con malla ventilada, ofreciendo comodidad incluso durante largas jornadas de uso",
+    "descripcion": "Brinda durabilidad, funcionalidad y un ajuste seguro, esta fabricado en poliester de alta resistencia con malla ventilada.",
+    "descripcion2": "Ofrece comodidad incluso durante largas jornadas de uso",
     "especificaciones":
     {
-      "marca": "Tony",
-      "corte": "Mayor ligereza, resistencia y ventilacion",
-      "talla": "Unitalla",
-      "caracteristicas": "Ajuste en los laterales con broches de rapida accion, cinta de ajuste con broche para los hombros, aplicacion de contactel (lado de felpa) cortado con laser en la mitad del chaleco",
-      "sistema molle": "Compatibilidad completa para accesorios",
-      "asa de arrastre": "Ubicada en la espalda a la altura del cuello para extraccion rapida",
-      "material": "Poliester con malla de alta durabilidad y confort"
+      "Marca": "Tony",
+      "Corte": "Mayor ligereza, resistencia y ventilacion",
+      "Talla": "Unitalla",
+      "Caracteristicas": "Ajuste en los laterales con broches de rapida accion, cinta de ajuste con broche para los hombros, aplicacion de contactel (lado de felpa) cortado con laser en la mitad del chaleco",
+      "Sistema molle": "Compatibilidad completa para accesorios",
+      "Asa de arrastre": "Ubicada en la espalda a la altura del cuello para extraccion rapida",
+      "Material": "Poliester con malla de alta durabilidad y confort"
     },
     "imagenes": 
     [
@@ -140,14 +142,15 @@
   {
     "id": 7,
     "nombre": "Chamarra larga tipo cazadora",
-    "descripcion": "Fabricada en tela tipo neopreno con el interior afelpado, diseñada para brindar comodidad, proteccion y estilo en cualquier condicion",
+    "descripcion": "Fabricada en tela tipo neopreno con el interior afelpado, diseñada para brindar comodidad", 
+    "descripcion2": "Proteccion y estilo en cualquier condicion",
     "especificaciones":
     {
-      "marca": "tony",
-      "caracteristicas": "cuello tipo sport, cierre frontal reforzado",
-      "accesorios": "Bolsa tactica con cierre al frente en la parte superior izquierda, 2 bolsas laterales con cierre para manos, cierre de ajuste con velcro en muñecas",
-      "material": "Tela tipo neopreno con el interior afelpado",
-      "tallas": "Talla de la 36 a la 44"
+      "Marca": "tony",
+      "Caracteristicas": "cuello tipo sport, cierre frontal reforzado",
+      "Accesorios": "Bolsa tactica con cierre al frente en la parte superior izquierda, 2 bolsas laterales con cierre para manos, cierre de ajuste con velcro en muñecas",
+      "Material": "Tela tipo neopreno con el interior afelpado",
+      "Tallas": "Talla de la 36 a la 44"
     },
     "imagenes": 
     [
@@ -162,11 +165,11 @@
     "descripcion":"Fabricada en tela tazlan 100% de nylon, diseñada para brindar comodidad, proteccion y funcionalidad en condiciones exigentes",
     "especificaciones":
     {
-      "marca": "Tony",
-      "material": "Fabricada en tela azcalan",
-      "caracteristicas": "cuello sport con el interior afelpado, cierre frontal oculto con tapa reforzado, resistente y duradera, proteccion contra el viento, aislamiento termico, repele la humedad",
-      "accesorios": "2 bolsas laterales en diagonal para manos",
-      "tallas": "Talla de la 36 a la 44"
+      "Marca": "Tony",
+      "Material": "Fabricada en tela azcalan",
+      "Caracteristicas": "cuello sport con el interior afelpado, cierre frontal oculto con tapa reforzado, resistente y duradera, proteccion contra el viento, aislamiento termico, repele la humedad",
+      "Accesorios": "2 bolsas laterales en diagonal para manos",
+      "Tallas": "Talla de la 36 a la 44"
     },
     "imagenes": 
     [
@@ -181,11 +184,11 @@
     "descripcion": "Fabricacion en nylon de alta resistencia con hebilla metalica de alta liberacion, durable, ligero y confiable",
     "especificaciones":
     {
-      "marca": "Tony",
-      "longitud": "1.25m (ajustable)",
-      "colores": "Negro, Gris, Azul Marino, Caqui, Verde Militar",
-      "material": "Nylon de alta resistencia",
-      "hebilla": "Metalica de rapida liberacion 6.5 x 5 cm  "
+      "Marca": "Tony",
+      "Longitud": "1.25m (ajustable)",
+      "Colores": "Negro, Gris, Azul Marino, Caqui, Verde Militar",
+      "Material": "Nylon de alta resistencia",
+      "Hebilla": "Metalica de rapida liberacion 6.5 x 5 cm  "
     },
     "imagenes": 
     [
@@ -206,12 +209,12 @@
     "descripcion": "Diseñadas para brindar maxima seguridad, durabilidad y confiabilidad en aplicaciones profesionales, cierre no retractil, uso profesional",
     "especificaciones":
     {
-      "marca": "Smith & Wesson",
-      "material": "Elaboradas en acero niquelado",
-      "caracteristicas": "Incluye cremallera doble para ambas manos, union de aros de sujecion mediante dos eslabones de aceroaa reforzado, distancia entre aros de 5 cm",
-      "accesorios": "Cuenta con 2 llaves, 22 posiciones de bloqueo",
-      "resistencia": "resiste al menos 500 lbs",
-      "apertura": "5.18 cms"
+      "Marca": "Smith & Wesson",
+      "Material": "Elaboradas en acero niquelado",
+      "Caracteristicas": "Incluye cremallera doble para ambas manos, union de aros de sujecion mediante dos eslabones de aceroaa reforzado, distancia entre aros de 5 cm",
+      "Accesorios": "Cuenta con 2 llaves, 22 posiciones de bloqueo",
+      "Resistencia": "resiste al menos 500 lbs",
+      "Apertura": "5.18 cms"
     },
     "imagenes": 
     [
@@ -226,17 +229,18 @@
   {
     "id": 11,
     "nombre": "Baston policical PR24",
-    "descripcion": "Diseñada para uso profesional, el baston PR24 ofrece: Resistencia, Control y Seguridad en cualquier intervencion, Ideal para cuerpos de seguridad, policia preventiva, vigilancia privada y fuerzas del orden que requieren equipo confiable, resistente y de alto desempeño",
+    "descripcion": "Diseñada para uso profesional, el baston PR24 ofrece: Resistencia, Control y Seguridad en cualquier intervencion", 
+    "descripcion2": "Ideal para cuerpos de seguridad, policia preventiva, vigilancia privada y fuerzas del orden que requieren equipo confiable, resistente y de alto desempeño",
     "especificaciones":
     {
-      "marca": "Fury",
-      "modelo": "PR24",
-      "material": "Fabricado en policarbonato de alta resistencia, material de alto desempeño que brinda maxima durabilidad e impacto",
-      "caracteristicas": "Alta resistencia, Ligero y balanceado, control superior, manejo firme, balance optimo para movimientos agiles y control total en cualquier situacion, pomo de retencion que evita desarmes y permite dar golpes de martillo",
-      "color": "Negro Mate",
-      "empuñadora": "Ergonomica antideslizante, diseñada para un agarre seguro, comodo y firme",
-      "longitud": "60 cm (eje principal), 14 cm (Asa perpendicular)",
-      "textura": "Texturizado 360 grados en zona de agarre"
+      "Marca": "Fury",
+      "Modelo": "PR24",
+      "Material": "Fabricado en policarbonato de alta resistencia, material de alto desempeño que brinda maxima durabilidad e impacto",
+      "Caracteristicas": "Alta resistencia, Ligero y balanceado, control superior, manejo firme, balance optimo para movimientos agiles y control total en cualquier situacion, pomo de retencion que evita desarmes y permite dar golpes de martillo",
+      "Color": "Negro Mate",
+      "Empuñadora": "Ergonomica antideslizante, diseñada para un agarre seguro, comodo y firme",
+      "Longitud": "60 cm (eje principal), 14 cm (Asa perpendicular)",
+      "Textura": "Texturizado 360 grados en zona de agarre"
     },
     "imagenes":
     [
@@ -250,20 +254,21 @@
   {
     "id": 12,
     "nombre": "Coderas para motociclista",
-    "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto, diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
+    "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
+    "descripcion2": "diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
     "especificaciones":
     {
-      "marca": "Promoto",
-      "material": "Estructura externa rigida + Textil inspirable",
-      "material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
-      "sistema de ajuste": "Correas ajustables con velcro",
-      "caracteristicas": "Articuladas, Ligeras, Transpirables, Ergonomicas",
-      "talla": "Unitalla Ajustable",
-      "uso recomendado": "Motociclistas y deporte de alto impacto",
-      "movilidad articulada": "su sistema articulado permite una excelente libertad de movimiento sin comprometer la seguridad",
+      "Marca": "Promoto",
+      "Material": "Estructura externa rigida + Textil inspirable",
+      "Material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
+      "Sistema de ajuste": "Correas ajustables con velcro",
+      "Caracteristicas": "Articuladas, Ligeras, Transpirables, Ergonomicas",
+      "Talla": "Unitalla Ajustable",
+      "Uso recomendado": "Motociclistas y deporte de alto impacto",
+      "Movilidad articulada": "su sistema articulado permite una excelente libertad de movimiento sin comprometer la seguridad",
       "Comodidad y ajuste personalizado": "Equipadas con correas ajustables que aseguran un ajuste perfecto para diferentes tallas y formas corporales",
-      "diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
-      "versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
+      "Diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
+      "Versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
     "imagenes": 
     [
@@ -274,20 +279,21 @@
   {
     "id": 13,
     "nombre": "Rodilleras para motociclista",
-    "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto, diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
+    "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
+    "descripcion2": "Diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
     "especificaciones":
     {
-      "marca": "Promoto",
-      "material": "Estructura externa rigida + Textil inspirable",
-      "material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
-      "sistema de ajuste": "Correas ajustables con velcro",
-      "caracteristicas": "Articuladas, Ligeras, Transpirables, Ergonomicas",
-      "talla": "Unitalla Ajustable",
-      "uso recomendado": "Motociclistas y deporte de alto impacto",
-      "movilidad articulada": "su sistema articulado permite una excelente libertad de movimiento sin comprometer la seguridad",
+      "Marca": "Promoto",
+      "Material": "Estructura externa rigida + Textil inspirable",
+      "Material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
+      "Sistema de ajuste": "Correas ajustables con velcro",
+      "Caracteristicas": "Articuladas, Ligeras, Transpirables, Ergonomicas",
+      "Talla": "Unitalla Ajustable",
+      "Uso recomendado": "Motociclistas y deporte de alto impacto",
+      "Movilidad articulada": "su sistema articulado permite una excelente libertad de movimiento sin comprometer la seguridad",
       "Comodidad y ajuste personalizado": "Equipadas con correas ajustables que aseguran un ajuste perfecto para diferentes tallas y formas corporales",
-      "diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
-      "versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
+      "Diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
+      "Versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
     "imagenes":
     [
@@ -298,23 +304,24 @@
   {
     "id": 14,
     "nombre": "Guantes para motociclista",
-    "descripcion": "Diseñadas para brindar maxima proteccion y comodidad en cada recorrido, Ideales para motociclistas que buscan seguridad, resistencia y funcionalidad",
+    "descripcion": "Diseñadas para brindar maxima proteccion y comodidad en cada recorrido", 
+    "descripcion2": "Ideales para motociclistas que buscan seguridad, resistencia y funcionalidad",
     "especificaciones": 
     {
-      "marca": "Promoto",
-      "material": "Piel transpirable",
-      "tallas": "S, M, G, XL, XXL",
+      "Marca": "Promoto",
+      "Material": "Piel transpirable",
+      "Tallas": "S, M, G, XL, XXL",
       "S": "Circunferencia de palma de 16 a 18 cm",
       "M": "Circunferencia de palma de 18 a 20 cm",
       "L": "Circunferencia de palma de 20 a 22 cm",
       "XL": "Circunferencia de palma de 22 a 24 cm",
       "XXL": "Circunferencia de palma de 24 a 26 cm",
-      "proteccion para nudillos": "Carcasas en pvc de 3 mm que absorben en impactos y brindan mayor seguridad",
-      "piel transpirable": "Fabricados en piel de alta calidad que permite una ventilacion efectiva y mayor confort",
-      "puntas de dedos reforzadas": "Doble capa de material en las puntas para mayor durabilidad y resistencia",
-      "uso en pantallas tactiles": "Compatibles con dispositivos moviles sin necesidad de quitar los guantes",
-      "valvulas de goma": "Permiten una transpiracion efectiva, manteniendo frescas las manos del usuario",
-      "cinta ajustable" : "Cinnta de color negro para un ajuste seguro y personalizado"
+      "Proteccion para nudillos": "Carcasas en pvc de 3 mm que absorben en impactos y brindan mayor seguridad",
+      "Piel transpirable": "Fabricados en piel de alta calidad que permite una ventilacion efectiva y mayor confort",
+      "Puntas de dedos reforzadas": "Doble capa de material en las puntas para mayor durabilidad y resistencia",
+      "Uso en pantallas tactiles": "Compatibles con dispositivos moviles sin necesidad de quitar los guantes",
+      "Valvulas de goma": "Permiten una transpiracion efectiva, manteniendo frescas las manos del usuario",
+      "Cinta ajustable" : "Cinnta de color negro para un ajuste seguro y personalizado"
     },
     "imagenes": ["https://placehold.co/400x300?text=Guantes+para+Motociclista"]
   },
@@ -325,18 +332,18 @@
     "descripcion": "Guantes tacticos con proteccion para nudillos, fabricados en tela microtranspirable, con palmas antiderrapantes ",
     "especificaciones":
     {
-      "marca": "Promoto",
-      "material": "Piel transpirable, vulvas de goma para la transpiracion efectiva",
-      "tallas": "S, M, G, XL, XXL",
+      "Marca": "Promoto",
+      "Material": "Piel transpirable, vulvas de goma para la transpiracion efectiva",
+      "Tallas": "S, M, G, XL, XXL",
       "S": "Circunferencia de palma de 16 a 18 cm",
       "M": "Circunferencia de palma de 18 a 20 cm",
       "L": "Circunferencia de palma de 20 a 22 cm",
       "XL": "Circunferencia de palma de 22 a 24 cm",
       "XXL": "Circunferencia de palma de 24 a 26 cm",
-      "proteccion": "Carcasas de pvc de 3 mm en nudillos",
-      "puntas de dedos": "Dobles reforzados",
-      "uso en pantallas": "Compatible en pantallas tactiles",
-      "cinta": "Color negro"
+      "Proteccion": "Carcasas de pvc de 3 mm en nudillos",
+      "Puntas de dedos": "Dobles reforzados",
+      "Uso en pantallas": "Compatible en pantallas tactiles",
+      "Cinta": "Color negro"
     },
     "imagenes": 
     [
