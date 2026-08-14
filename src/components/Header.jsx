@@ -5,7 +5,8 @@ import Navbar from "./Navbar.jsx";
 function Header() {
   return (
     <header className="bg-surface border-b border-border px-6 py-4 flex items-center justify-between sticky top-0 z-50">
-      <span className="font-bold text-lg text-ink">PROTEKTA</span>
+      <Link to= "/"
+             className="font-bold text-lg text-ink">PROTEKTA</Link>
       <Navbar></Navbar>
     </header>
   );
