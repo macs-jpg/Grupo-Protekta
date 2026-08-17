@@ -61,7 +61,18 @@ function ProductoDetalle() {
 
             <div className="mt-10 px-4 pb-6">
                 <h2 className="text-xl font-bold mb-4">También te puede interesar</h2>
-                <div className="flex items-center gap-4">
+
+                {/*Telefono */}
+                <div className="flex sm:hidden gap-4 overflow-x-auto snap-x snap-mandatory pb-2">
+                    {sugeridos.map((p) => (
+                        <div key={p.id} className="w-[70%] shrink-0 snap-start">
+                            <ProductCard producto={p} />
+                        </div>
+                    ))}
+                </div>
+
+                {/* Grande*/}
+                <div className="hidden sm:flex items-center gap-4">
                     <button
                         onClick={anteriorSugerido}
                         disabled={inicioSugeridos === 0}
@@ -69,7 +80,7 @@ function ProductoDetalle() {
                     >
                         {"<"}
                     </button>
-                    <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 flex-1">
+                    <div className="grid sm:grid-cols-4 gap-4 flex-1 min-w-0">
                         {ventanaSugeridos.map((p) => (
                             <ProductCard key={p.id} producto={p} />
                         ))}
