@@ -72,11 +72,11 @@ function ProductoDetalle() {
                 </div>
 
                 {/* Grande*/}
-                <div className="hidden sm:flex items-center gap-4">
+                <div className="hidden sm:flex items-start gap-4">
                     <button
                         onClick={anteriorSugerido}
                         disabled={inicioSugeridos === 0}
-                        className="disabled:opacity-30 disabled:cursor-not-allowed text-3xl px-2"
+                        className="disabled:opacity-30 disabled:cursor-not-allowed text-3xl px-2 mt-20"
                     >
                         {"<"}
                     </button>
@@ -88,7 +88,7 @@ function ProductoDetalle() {
                     <button
                         onClick={siguienteSugerido}
                         disabled={inicioSugeridos >= sugeridos.length - 4}
-                        className="disabled:opacity-30 disabled:cursor-not-allowed text-3xl px-2"
+                        className="disabled:opacity-30 disabled:cursor-not-allowed text-3xl px-2 mt-20"
                     >
                         {">"}
                     </button>
