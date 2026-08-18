@@ -1,29 +1,25 @@
 import Carousel from "../components/Carousel";
 import Card from "../components/ui/card";
 import { Link } from "react-router-dom";
-
+import { ShieldCheck, Clock, BadgeCheck, Handshake } from "lucide-react";
 const valores = [
   {
-    // aquí va una imagen que represente el valor
-    imagen: "x",
+    Icono: ShieldCheck,
     titulo: "Experiencia comprobada",
     descripcion: "Años brindando soluciones de seguridad confiables en puebla",
   },
-
   {
-    imagen: "x",
+    Icono: Clock,
     titulo: "Atencion personalizada",
-    descripcion: "Brindamos una atención personalizada a tus necesidades ",
+    descripcion: "Brindamos una atención personalizada a tus necesidades",
   },
-
   {
-    imagen: "x",
+    Icono: BadgeCheck,
     titulo: "Equipo certificado",
     descripcion: "Productos y personal capacitado bajo estandares de calidad",
   },
-
   {
-    imagen: "x",
+    Icono: Handshake,
     titulo: "Confianza",
     descripcion: "Evidencia de nuestro trabajo con resultados reales",
   },
@@ -48,20 +44,20 @@ function Home() {
       <section className="px-6 py-16 max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold text-ink">Quiénes somos</h2>
         <p className="text-muted leading-relaxed mt-4">
-          En Protekta contamos con más de X años de experiencia brindando
-          soluciones integrales de seguridad: cámaras, uniformes, equipo
-          antimotín y equipamiento para vehículos, con la confianza de nuestros
-          clientes en Puebla.
+          En Protekta contamos con más de 20 años de experiencia brindando
+          soluciones integrales de seguridad: video vigilancia, uniformes,
+          equipo antimotín y equipamiento para vehículos, con la confianza de
+          nuestros clientes en toda la república.
         </p>
       </section>
 
       {/* valores */}
-      <section className="px-6  py-16 max-w-5x1 mx-auto">
+      <section className="px-6  py-16 max-w-5xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-4 gap-6">
           {valores.map((valor) => (
             <Card key={valor.titulo} className="text-center">
-              <span className="text-4xl">{valor.imagen}</span>
-              <h3 className="font-semibold text ink mt-2">{valor.titulo}</h3>
+              <valor.Icono className="w-10 h-10 text-primary mx-auto" />
+              <h3 className="font-semibold text-ink mt-2">{valor.titulo}</h3>
               <p className="text-muted text-sm mt-2">{valor.descripcion}</p>
             </Card>
           ))}
