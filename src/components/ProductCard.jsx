@@ -22,7 +22,7 @@ function ProductCard({ producto }) {
         <p className="text-slate-600 text-sm mt-1">{producto.descripcion2}</p>
       </div>
     </Link>
-  )
+  );
 }
 
-export default ProductCard  
+export default ProductCard;

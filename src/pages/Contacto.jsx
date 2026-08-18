@@ -6,7 +6,7 @@ function Contacto() {
   const [correo, setCorreo] = useState("");
   const [mensaje, setMensaje] = useState("");
   const [errores, setErrores] = useState({});
-  const [estadoEnvio, setEstadoEnvio ] = useState(null);
+  const [estadoEnvio, setEstadoEnvio] = useState(null);
 
   const validar = () => {
     const nuevosErrores = {};
@@ -37,8 +37,8 @@ function Contacto() {
     if (esValido) {
       const respuesta = await fetch("https://formspree.io/f/mzepveql", {
         method: "POST",
-        headers: { "Accept": "application/json" },
-        body: JSON.stringify({  nombre, correo, mensaje })
+        headers: { Accept: "application/json" },
+        body: JSON.stringify({ nombre, correo, mensaje }),
       });
       if (respuesta.ok) {
         setNombre("");
@@ -92,14 +92,16 @@ function Contacto() {
           <p className="text-sm text-primary">{errores.mensaje}</p>
         )}
 
-        <Button type="submit" className="mt-4">Enviar</Button>
+        <Button type="submit" className="mt-4">
+          Enviar
+        </Button>
         {estadoEnvio === "exito" && (
           <div className="fixed bottom-4 right-4 bg-green-100 border border-green-400 text-green-700 px-4 py-2  rounded-md text-sm ">
             Enviado
           </div>
         )}
-        {estadoEnvio === "error" &&(
-          <div className="fixed bottom-4 right-4 bg-red-100 border border-red-400 text-red-700 px-4 py2 rounded-md text-sm ">
+        {estadoEnvio === "error" && (
+          <div className="fixed bottom-4 right-4 bg-red-100 border border-red-400 text-red-700 px-4 py-2 rounded-md text-sm ">
             Error, consulte con el proveedor
           </div>
         )}
