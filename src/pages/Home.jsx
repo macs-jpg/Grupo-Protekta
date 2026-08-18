@@ -36,9 +36,9 @@ function Home() {
       <section className="  relative overflow-hidden aspect-video">
         <Carousel
           imagenes={[
-            "https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+1",
-            "https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+2",
-            "https://placehold.co/1600x900/1A1A1A/FFFFFF?text=Foto+3",
+            "/Hero/protekta_1.jpg",
+            "/Hero/protekta_2.jpeg",
+            "/Hero/protekta_3.png",
           ]}
           className="w-full h-full "
         />

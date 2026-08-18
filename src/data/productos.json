@@ -2,6 +2,7 @@
   {
     "id": 1,
     "nombre": "Bastón retráctil",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Bastón retráctil altamente funcional, diseñado para uso de seguridad, defensa y control.", 
     "descripcion2": "Su sistema retráctil permite un rapido despliegue y transporte discreto, brindando confianza y efectividad en situaciones de riesgo.",
     "especificaciones": 
@@ -33,6 +34,7 @@
   {
     "id": 2,
     "nombre": "Botas tácticas",
+    "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Botas tácticas altamente efectivas para trabajo rudo, diseñadas para uso de elementos de seguridad con una gran transpiracion gracias a la  piel supreme leather con tecnologia microporo",
     "especificaciones": {
       "Marca": "Duty gear",
@@ -56,6 +58,7 @@
   {
     "id": 3,
     "nombre": "Camisola Tactica",
+    "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Perfecta para uso profesional, su corte tactico y su buen material proporcionan comodidad y funcionalidad",
     "especificaciones":
     {
@@ -72,6 +75,7 @@
   {
     "id": 4,
     "nombre": "Casco para motociclista",
+    "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Proporciona comodidad y proteccion gracias a su doble visor", 
     "descripcion2": "Interior acolchado y carcasa de material ABS",
     "especificaciones":
@@ -95,6 +99,7 @@
   {
     "id": 5,
     "nombre": "Casco tactico balistico",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseño para fuerzas de seguridad y operaciones tacticas, este casco ofrece proteccion avanzada sin comprometer movilidad",
     "especificaciones":
     {
@@ -120,6 +125,7 @@
   {
     "id": 6,
     "nombre": "Chaleco Tactico",
+    "categorias":["Equipo Tactico", "Uniformes"],
     "descripcion": "Brinda durabilidad, funcionalidad y un ajuste seguro, esta fabricado en poliester de alta resistencia con malla ventilada.",
     "descripcion2": "Ofrece comodidad incluso durante largas jornadas de uso",
     "especificaciones":
@@ -142,6 +148,7 @@
   {
     "id": 7,
     "nombre": "Chamarra larga tipo cazadora",
+    "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Fabricada en tela tipo neopreno con el interior afelpado, diseñada para brindar comodidad", 
     "descripcion2": "Proteccion y estilo en cualquier condicion",
     "especificaciones":
@@ -162,6 +169,7 @@
   {
     "id":8,
     "nombre": "Chamarra larga tipo cazadora",
+    "categorias":["Equipo Tactico", "Uniformes"],
     "descripcion":"Fabricada en tela tazlan 100% de nylon, diseñada para brindar comodidad, proteccion y funcionalidad en condiciones exigentes",
     "especificaciones":
     {
@@ -181,6 +189,7 @@
   {
     "id": 9,
     "nombre": "Cinturon tactico",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Fabricacion en nylon de alta resistencia con hebilla metalica de alta liberacion, durable, ligero y confiable",
     "especificaciones":
     {
@@ -206,6 +215,7 @@
   {
     "id": 10,
     "nombre": "Esposas de mano",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseñadas para brindar maxima seguridad, durabilidad y confiabilidad en aplicaciones profesionales, cierre no retractil, uso profesional",
     "especificaciones":
     {
@@ -229,6 +239,7 @@
   {
     "id": 11,
     "nombre": "Baston policical PR24",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseñada para uso profesional, el baston PR24 ofrece: Resistencia, Control y Seguridad en cualquier intervencion", 
     "descripcion2": "Ideal para cuerpos de seguridad, policia preventiva, vigilancia privada y fuerzas del orden que requieren equipo confiable, resistente y de alto desempeño",
     "especificaciones":
@@ -254,6 +265,7 @@
   {
     "id": 12,
     "nombre": "Coderas para motociclista",
+    "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
     "descripcion2": "diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
     "especificaciones":
@@ -279,6 +291,7 @@
   {
     "id": 13,
     "nombre": "Rodilleras para motociclista",
+    "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
     "descripcion2": "Diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
     "especificaciones":
@@ -304,6 +317,7 @@
   {
     "id": 14,
     "nombre": "Guantes para motociclista",
+    "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Diseñadas para brindar maxima proteccion y comodidad en cada recorrido", 
     "descripcion2": "Ideales para motociclistas que buscan seguridad, resistencia y funcionalidad",
     "especificaciones": 
@@ -329,6 +343,7 @@
   {
     "id": 15,
     "nombre": "Guantes tacticos para policia",
+    "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Guantes tacticos con proteccion para nudillos, fabricados en tela microtranspirable, con palmas antiderrapantes ",
     "especificaciones":
     {
