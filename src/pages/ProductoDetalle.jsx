@@ -59,6 +59,16 @@ function ProductoDetalle() {
           <h1 className="font-semibold text-2xl">{producto.nombre}</h1>
           <p className="text-slate-600 text-sm mt-1">{producto.descripcion}</p>
           <p className="text-slate-600 text-sm mt-1">{producto.descripcion2}</p>
+          {producto.precio ? (
+            <div className="mt-3">
+              <p className="text-primary font-bold text-2xl">
+                ${producto.precio.toLocaleString("es-MX")} MN
+              </p>
+              <p className="text-muted text-xs mt-1">+ IVA</p>
+            </div>
+          ) : (
+            <p className="text-muted mt-3">Precio a consultar</p>
+          )}
           <div className="space-y-1 border-t pt-3 mt-3">
             {Object.entries(producto.especificaciones).map(([llave, valor]) => (
               <p key={llave} className="text-sm text-slate-600">
