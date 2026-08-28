@@ -20,6 +20,16 @@ function ProductCard({ producto }) {
         <h3 className="font-semibold text-lg">{producto.nombre}</h3>
         <p className="text-slate-600 text-sm mt-1">{producto.descripcion}</p>
         <p className="text-slate-600 text-sm mt-1">{producto.descripcion2}</p>
+        {producto.precio ? (
+          <div className="mt-3">
+            <p className="text-primary font-bold text-2xl">
+              ${producto.precio.toLocaleString("es-MX")} MN
+            </p>
+            <p className="text-muted text-xs mt-1">+ IVA</p>
+          </div>
+        ) : (
+          <p className="text-muted mt-3">Precio a consultar</p>
+        )}
       </div>
     </Link>
   );

@@ -3,10 +3,9 @@
     "id": 1,
     "nombre": "Bastón retráctil",
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
-    "descripcion": "Bastón retráctil altamente funcional, diseñado para uso de seguridad, defensa y control.", 
+    "descripcion": "Bastón retráctil altamente funcional, diseñado para uso de seguridad, defensa y control.",
     "descripcion2": "Su sistema retráctil permite un rapido despliegue y transporte discreto, brindando confianza y efectividad en situaciones de riesgo.",
-    "especificaciones": 
-    {
+    "especificaciones": {
       "Marca": "Streetwise",
       "Material": "Acero de alta resistencia",
       "Mango": "Antideslizante",
@@ -14,10 +13,9 @@
       "Color": "Negro Mate",
       "Peso": "Liviano y portatil",
       "Accesorios": "Funda de transporte",
-      "Uso":"Seguridad, Defensa y Control"
+      "Uso": "Seguridad, Defensa y Control"
     },
-    "imagenes":
-    [
+    "imagenes": [
       "/catalogo/baston_img1.png",
       "/catalogo/baston_img2.png",
       "/catalogo/baston_img3.png",
@@ -28,12 +26,12 @@
       "/catalogo/baston_img8.png",
       "/catalogo/baston_img9.png"
     ]
-
   },
 
   {
     "id": 2,
     "nombre": "Botas tácticas",
+    "precio": 1300,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Botas tácticas altamente efectivas para trabajo rudo, diseñadas para uso de elementos de seguridad con una gran transpiracion gracias a la  piel supreme leather con tecnologia microporo",
     "especificaciones": {
@@ -45,8 +43,7 @@
       "Textil": "Permatex mantiene el pie fresco y la plantilla ergotech aporta confort y estabilidad ",
       "Accesorios": "Cierre lateral"
     },
-    "imagenes": 
-    [
+    "imagenes": [
       "/catalogo/botas_img1.png",
       "/catalogo/botas_img2.png",
       "/catalogo/botas_img3.png",
@@ -58,10 +55,10 @@
   {
     "id": 3,
     "nombre": "Camisola Tactica",
+    "precio": 1300,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Perfecta para uso profesional, su corte tactico y su buen material proporcionan comodidad y funcionalidad",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Tony",
       "Material": "Tela Ripston teflon con aplicacion repelente al agua y manchas, 65% poliester - 35% algodon",
       "Color": "Negro azul o marino",
@@ -75,18 +72,17 @@
   {
     "id": 4,
     "nombre": "Casco para motociclista",
+    "precio": 2000,
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
-    "descripcion": "Proporciona comodidad y proteccion gracias a su doble visor", 
+    "descripcion": "Proporciona comodidad y proteccion gracias a su doble visor",
     "descripcion2": "Interior acolchado y carcasa de material ABS",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Bruum",
       "Color": "Acabado mate",
       "Caracteristicas": "Doble visor, Carcasa de material ABS",
       "Tallas": "CH, M, G"
     },
-    "imagenes": 
-    [
+    "imagenes": [
       "/catalogo/cascom_img1.jpeg",
       "/catalogo/cascom_img2.jpeg",
       "/catalogo/cascom_img3.jpeg",
@@ -99,10 +95,10 @@
   {
     "id": 5,
     "nombre": "Casco tactico balistico",
+    "precio": 80000,
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseño para fuerzas de seguridad y operaciones tacticas, este casco ofrece proteccion avanzada sin comprometer movilidad",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Armor Life Lab",
       "Nivel balistico": "III-A, Cumpliendo las normas NIJ-STD-0106.01 y HPW-TP-0401,01",
       "Talla": "Unitalla, ajuste adaptable para diferentes usuarios",
@@ -112,11 +108,10 @@
       "Caracteristicas": "Resistencia magnun .44, Garantizando seguridad Maxima",
       "Lugar de fabricacion": "Kevlar"
     },
-    "imagenes": 
-    [
+    "imagenes": [
       "/catalogo/cascotb_img1.png",
       "/catalogo/cascotb_img2.png",
-      "/catalogo/cascotb_img3.png", 
+      "/catalogo/cascotb_img3.png",
       "/catalogo/cascotb_img5.png",
       "/catalogo/cascotb_img6.png"
     ]
@@ -125,11 +120,10 @@
   {
     "id": 6,
     "nombre": "Chaleco Tactico",
-    "categorias":["Equipo Tactico", "Uniformes"],
+    "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Brinda durabilidad, funcionalidad y un ajuste seguro, esta fabricado en poliester de alta resistencia con malla ventilada.",
     "descripcion2": "Ofrece comodidad incluso durante largas jornadas de uso",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Tony",
       "Corte": "Mayor ligereza, resistencia y ventilacion",
       "Talla": "Unitalla",
@@ -138,69 +132,55 @@
       "Asa de arrastre": "Ubicada en la espalda a la altura del cuello para extraccion rapida",
       "Material": "Poliester con malla de alta durabilidad y confort"
     },
-    "imagenes": 
-    [
-      "/catalogo/chaleco_img1.png",
-      "/catalogo/chaleco_img2.png"
-    ]
+    "imagenes": ["/catalogo/chaleco_img1.png", "/catalogo/chaleco_img2.png"]
   },
 
   {
     "id": 7,
     "nombre": "Chamarra larga tipo cazadora",
     "categorias": ["Equipo Tactico", "Uniformes"],
-    "descripcion": "Fabricada en tela tipo neopreno con el interior afelpado, diseñada para brindar comodidad", 
+    "descripcion": "Fabricada en tela tipo neopreno con el interior afelpado, diseñada para brindar comodidad",
     "descripcion2": "Proteccion y estilo en cualquier condicion",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "tony",
       "Caracteristicas": "cuello tipo sport, cierre frontal reforzado",
       "Accesorios": "Bolsa tactica con cierre al frente en la parte superior izquierda, 2 bolsas laterales con cierre para manos, cierre de ajuste con velcro en muñecas",
       "Material": "Tela tipo neopreno con el interior afelpado",
       "Tallas": "Talla de la 36 a la 44"
     },
-    "imagenes": 
-    [
-      "/catalogo/chamarra_img1.png",
-      "/catalogo/chamarra_img2.png"
-    ]
+    "imagenes": ["/catalogo/chamarra_img1.png", "/catalogo/chamarra_img2.png"]
   },
 
   {
-    "id":8,
+    "id": 8,
     "nombre": "Chamarra larga tipo cazadora",
-    "categorias":["Equipo Tactico", "Uniformes"],
-    "descripcion":"Fabricada en tela tazlan 100% de nylon, diseñada para brindar comodidad, proteccion y funcionalidad en condiciones exigentes",
-    "especificaciones":
-    {
+    "precio": 1350,
+    "categorias": ["Equipo Tactico", "Uniformes"],
+    "descripcion": "Fabricada en tela tazlan 100% de nylon, diseñada para brindar comodidad, proteccion y funcionalidad en condiciones exigentes",
+    "especificaciones": {
       "Marca": "Tony",
       "Material": "Fabricada en tela azcalan",
       "Caracteristicas": "cuello sport con el interior afelpado, cierre frontal oculto con tapa reforzado, resistente y duradera, proteccion contra el viento, aislamiento termico, repele la humedad",
       "Accesorios": "2 bolsas laterales en diagonal para manos",
       "Tallas": "Talla de la 36 a la 44"
     },
-    "imagenes": 
-    [
-      "/catalogo/chamarra8_img1.png",
-      "/catalogo/chamarra8_img2.png"
-    ]
+    "imagenes": ["/catalogo/chamarra8_img1.png", "/catalogo/chamarra8_img2.png"]
   },
 
   {
     "id": 9,
     "nombre": "Cinturon tactico",
+    "precio": 490,
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Fabricacion en nylon de alta resistencia con hebilla metalica de alta liberacion, durable, ligero y confiable",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Tony",
       "Longitud": "1.25m (ajustable)",
       "Colores": "Negro, Gris, Azul Marino, Caqui, Verde Militar",
       "Material": "Nylon de alta resistencia",
       "Hebilla": "Metalica de rapida liberacion 6.5 x 5 cm  "
     },
-    "imagenes": 
-    [
+    "imagenes": [
       "/catalogo/cinturon_img1.png",
       "/catalogo/cinturon_img2.png",
       "/catalogo/cinturon_img3.png",
@@ -215,10 +195,10 @@
   {
     "id": 10,
     "nombre": "Esposas de mano",
+    "precio": 1300,
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseñadas para brindar maxima seguridad, durabilidad y confiabilidad en aplicaciones profesionales, cierre no retractil, uso profesional",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Smith & Wesson",
       "Material": "Elaboradas en acero niquelado",
       "Caracteristicas": "Incluye cremallera doble para ambas manos, union de aros de sujecion mediante dos eslabones de aceroaa reforzado, distancia entre aros de 5 cm",
@@ -226,8 +206,7 @@
       "Resistencia": "resiste al menos 500 lbs",
       "Apertura": "5.18 cms"
     },
-    "imagenes": 
-    [
+    "imagenes": [
       "/catalogo/esposas_img1.png",
       "/catalogo/esposas_img2.png",
       "/catalogo/esposas_img3.png",
@@ -240,10 +219,9 @@
     "id": 11,
     "nombre": "Baston policical PR24",
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
-    "descripcion": "Diseñada para uso profesional, el baston PR24 ofrece: Resistencia, Control y Seguridad en cualquier intervencion", 
+    "descripcion": "Diseñada para uso profesional, el baston PR24 ofrece: Resistencia, Control y Seguridad en cualquier intervencion",
     "descripcion2": "Ideal para cuerpos de seguridad, policia preventiva, vigilancia privada y fuerzas del orden que requieren equipo confiable, resistente y de alto desempeño",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Fury",
       "Modelo": "PR24",
       "Material": "Fabricado en policarbonato de alta resistencia, material de alto desempeño que brinda maxima durabilidad e impacto",
@@ -253,8 +231,7 @@
       "Longitud": "60 cm (eje principal), 14 cm (Asa perpendicular)",
       "Textura": "Texturizado 360 grados en zona de agarre"
     },
-    "imagenes":
-    [
+    "imagenes": [
       "/catalogo/bastonp_img1.png",
       "/catalogo/bastonp_img2.png",
       "/catalogo/bastonp_img3.png",
@@ -265,11 +242,11 @@
   {
     "id": 12,
     "nombre": "Coderas para motociclista",
+    "precio": 600,
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
-    "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
+    "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto",
     "descripcion2": "diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Promoto",
       "Material": "Estructura externa rigida + Textil inspirable",
       "Material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
@@ -282,20 +259,17 @@
       "Diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
       "Versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
-    "imagenes": 
-    [
-      "/catalogo/coderas_img1.png"
-    ]
+    "imagenes": ["/catalogo/coderas_img1.png"]
   },
 
   {
     "id": 13,
+    "precio": 600,
     "nombre": "Rodilleras para motociclista",
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
-    "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto", 
+    "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto",
     "descripcion2": "Diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
-    "especificaciones":
-    {
+    "especificaciones": {
       "Marca": "Promoto",
       "Material": "Estructura externa rigida + Textil inspirable",
       "Material transpirable": "Su estructura respirable permite una ventilacion eficiente, manteniendo al usuario fresco incluso en condiciones exigentes",
@@ -308,20 +282,17 @@
       "Diseño ergonomico": "Diseñadas para adaptarse comodamente al cuerpo evitando molestias durante el uso prolongado",
       "Versatilidad de uso": "Ideales para motociclistas y deportistas que buscan proteccion en actividades de alto impacto"
     },
-    "imagenes":
-    [
-      "/catalogo/rodilleras_img1.png"
-    ]
+    "imagenes": ["/catalogo/rodilleras_img1.png"]
   },
 
   {
     "id": 14,
+    "precio": 900,
     "nombre": "Guantes para motociclista",
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
-    "descripcion": "Diseñadas para brindar maxima proteccion y comodidad en cada recorrido", 
+    "descripcion": "Diseñadas para brindar maxima proteccion y comodidad en cada recorrido",
     "descripcion2": "Ideales para motociclistas que buscan seguridad, resistencia y funcionalidad",
-    "especificaciones": 
-    {
+    "especificaciones": {
       "Marca": "Promoto",
       "Material": "Piel transpirable",
       "Tallas": "S, M, G, XL, XXL",
@@ -335,19 +306,19 @@
       "Puntas de dedos reforzadas": "Doble capa de material en las puntas para mayor durabilidad y resistencia",
       "Uso en pantallas tactiles": "Compatibles con dispositivos moviles sin necesidad de quitar los guantes",
       "Valvulas de goma": "Permiten una transpiracion efectiva, manteniendo frescas las manos del usuario",
-      "Cinta ajustable" : "Cinnta de color negro para un ajuste seguro y personalizado"
+      "Cinta ajustable": "Cinnta de color negro para un ajuste seguro y personalizado"
     },
     "imagenes": ["https://placehold.co/400x300?text=Guantes+para+Motociclista"]
   },
 
   {
     "id": 15,
+    "precio": 1350,
     "nombre": "Guantes tacticos para policia",
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Guantes tacticos con proteccion para nudillos, fabricados en tela microtranspirable, con palmas antiderrapantes ",
-    "especificaciones":
-    {
-      "Marca": "Promoto",
+    "especificaciones": {
+      "Marca": "Protekta",
       "Material": "Piel transpirable, vulvas de goma para la transpiracion efectiva",
       "Tallas": "S, M, G, XL, XXL",
       "S": "Circunferencia de palma de 16 a 18 cm",
@@ -360,10 +331,6 @@
       "Uso en pantallas": "Compatible en pantallas tactiles",
       "Cinta": "Color negro"
     },
-    "imagenes": 
-    [
-      "/catalogo/guantes_img1.png",
-      "/catalogo/guantes_img2.png"
-    ]
+    "imagenes": ["/catalogo/guantes_img1.png", "/catalogo/guantes_img2.png"]
   }
 ]
