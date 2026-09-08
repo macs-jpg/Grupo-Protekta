@@ -31,7 +31,7 @@
   {
     "id": 2,
     "nombre": "Botas tácticas",
-    "precio": 1300,
+    "precio": 2300,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Botas tácticas altamente efectivas para trabajo rudo, diseñadas para uso de elementos de seguridad con una gran transpiracion gracias a la  piel supreme leather con tecnologia microporo",
     "especificaciones": {
@@ -55,7 +55,7 @@
   {
     "id": 3,
     "nombre": "Camisola Tactica",
-    "precio": 1300,
+    "precio": 1650,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Perfecta para uso profesional, su corte tactico y su buen material proporcionan comodidad y funcionalidad",
     "especificaciones": {
@@ -95,7 +95,7 @@
   {
     "id": 5,
     "nombre": "Casco tactico balistico",
-    "precio": 80000,
+    "precio": 8000,
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Diseño para fuerzas de seguridad y operaciones tacticas, este casco ofrece proteccion avanzada sin comprometer movilidad",
     "especificaciones": {
@@ -120,6 +120,7 @@
   {
     "id": 6,
     "nombre": "Chaleco Tactico",
+    "precio": 1800,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Brinda durabilidad, funcionalidad y un ajuste seguro, esta fabricado en poliester de alta resistencia con malla ventilada.",
     "descripcion2": "Ofrece comodidad incluso durante largas jornadas de uso",
@@ -154,7 +155,7 @@
   {
     "id": 8,
     "nombre": "Chamarra larga tipo cazadora",
-    "precio": 1350,
+    "precio": 1700,
     "categorias": ["Equipo Tactico", "Uniformes"],
     "descripcion": "Fabricada en tela tazlan 100% de nylon, diseñada para brindar comodidad, proteccion y funcionalidad en condiciones exigentes",
     "especificaciones": {
@@ -170,7 +171,7 @@
   {
     "id": 9,
     "nombre": "Cinturon tactico",
-    "precio": 490,
+    "precio": 500,
     "categorias": ["Equipo Tactico", "Accesorios para Seguridad"],
     "descripcion": "Fabricacion en nylon de alta resistencia con hebilla metalica de alta liberacion, durable, ligero y confiable",
     "especificaciones": {
@@ -242,7 +243,7 @@
   {
     "id": 12,
     "nombre": "Coderas para motociclista",
-    "precio": 600,
+    "precio": 800,
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Para brindar maxima proteccion, comodidad y movilidad en cada trayecto",
     "descripcion2": "diseñadas con una estructura de proteccion rigida externa que absorbe impactos y minimiza lesiones en caso de caidas y golpes",
@@ -264,7 +265,7 @@
 
   {
     "id": 13,
-    "precio": 600,
+    "precio": 700,
     "nombre": "Rodilleras para motociclista",
     "categorias": ["Equipo Tactico", "Equipamiento motos, Camionetas y Sedan"],
     "descripcion": "Diseñadas para brindar maxima proteccion, comodidad y movilidad en cada trayecto",
@@ -332,5 +333,224 @@
       "Cinta": "Color negro"
     },
     "imagenes": ["/catalogo/guantes_img1.png", "/catalogo/guantes_img2.png"]
+  },
+
+  {
+    "id": 16,
+    "precio": 450,
+    "nombre": "Gorra Beisbolera",
+    "categorias": ["Uniformes"],
+    "descripcion": "Diseñada para brindar comodidad, proteccion y durabilidad en cualquier actividad.",
+    "especificaciones":{
+      "Marca": "Tony",
+      "Material": "Premium, fabricada en micro-ripstop de alta resistencia y durabilidad",
+      "Tipo": "Beisbolera",
+      "Proteccion": "Micro-Ripstop",
+      "Composicion": "62% Poliester, 35% Algodon, 3% licra",
+      "Colores": "Negro, Azul Marino",
+      "Talla": "Unitalla",
+      "Ajuste": "Hebilla metalica trasera ajustable",
+      "Flexible": "Incluye 3% de licra para un ajuste mas comodo y adaptable"
+    },
+    "imagenes": ["/catalogo/GorraBeisbol_img1.png", "/catalogo/GorraBeisbol_img2.png", "/catalogo/GorraBeisbol_img3.png"]
+  },
+
+  {
+    "id": 17,
+    "precio": 1700,
+    "nombre": "Pantalon Tactico ",
+    "categorias": ["Uniformes"],
+    "descripcion": "Diseñado para brindar maxima funcionalidad, resistencia y comodidad en actividades tacticas, operativas y de uso diario",
+    "especificaciones":{
+      "Marca": "Tony",
+      "Material": "Micro-Ripstop Teflon",
+      "Composicion": "62% Poliester, 35% Algodon, 3% licra",
+      "Acabado": "Repelente al agua y manchas",
+      "Cinta Interior": "Antiderrapante Snugtex",
+      "Colores": "Negro, Caqui, Azul Marino",
+      "Talla": " XS, S, M, L, XL",
+      "XS": "26-28",
+      "S": "30-32",
+      "M": "34-36",
+      "L": "38-40",
+      "XL": "42-44"
+    },
+    "imagenes": ["/catalogo/pantalonTactico_img1.png", "/catalogo/pantalonTactico_img2.png", "/catalogo/pantalonTactico_img3.png"]
+  },
+
+    {
+    "id": 18,
+    "precio": 700,
+    "nombre": "Playera polo tactica ",
+    "categorias": ["Uniformes"],
+    "descripcion": "Bolsas tacticas con cierre en mangas y aplicaciones de velcro para la instalacion de diversos tipos de parches",
+    "especificaciones":{
+      "Marca": "Tony",
+      "Material": "50% algodon, 50% poliester",
+      "Composicion": "62% Poliester, 35% Algodon, 3% licra",
+      "Acabado": "Repelente al agua y manchas",
+      "Cinta Interior": "Antiderrapante Snugtex",
+      "Colores": "Negro, Caqui, Azul Marino",
+      "Talla": " XS, S, M, L, XL"
+    },
+    "imagenes": ["/catalogo/playeraTactica_img1.png", "/catalogo/playeraTactica_img2.png", "/catalogo/playeraTactica_img3.png", "/catalogo/playeraTactica_img4.png", "/catalogo/playeraTactica_img5.png", "/catalogo/playeraTactica_img6.png"]
+  },
+
+      {
+    "id": 19,
+    "precio": 790,
+    "nombre": "Fornitura completa termoformada",
+    "categorias": ["Uniformes", "Equipo Tactico"],
+    "descripcion": "Fornitura completa termoformada, diseñada para brindar organizacion, accesibilidad y seguridad en cada mision",
+    "especificaciones":{
+      "Marca": "Protekta",
+      "Modelo": "Speed",
+      "Material": "Fabricada con materiales de alta resistencia, duraderos y ligeros para uso rudo",
+      "Proteccion y seguridad": "Estructura transformada de alta resistencia que mantiene cada accesorio seguro en su lugar, evitando movimientos y caidas",
+      "Comodidad y ajuste": "Fajilla extra gruesa que proporciona soporte y comodidad durante largas jornadas de trabajo",
+      "Hebilla de triple seguro": "Hebilla de plastico PVC con sistema de triple seguro para mayor firmeza y seguridad",
+      "Talla": "Unitalla"
+    },
+    "imagenes": ["/catalogo/fornitura_img1.png"]
+  },
+
+      {
+    "id": 20,
+    "precio": 790,
+    "nombre": "Gas lacrimogeno",
+    "categorias": ["Accesorios para Seguridad"],
+    "descripcion": "Para defensa personal, ideal para fuerzas del orden, comite de vecinos vigilantes, etc.",
+    "especificaciones":{
+      "Marca": "Maxima",
+      "Formula Efectiva": "Irrita los ojos, la nariz, y garganta del agresor temporalmente",
+      "Accion Inmediata": "Genera una nube irritante que incapacita al agresor momentaneamente",
+      "Facil de usar": "Diseño compacto y ergonomico para un uso rapido y seguro",
+      "Valvula de seguridad": "Actuador de descarga con seguro para evitar activaciones accidentales",
+      "Uso versatil": "Ideal para fuerzas del orden, comite de vecinos vigilantes, y defensa personal",
+      "Talla": "Unitalla",
+      "Especificaciones de producto": "Frasco con contenido neto de: 135g, Altura: 17.3 cm, Ancho: 3.3 cm",
+      "Advertencias": "Mantener fuera del alcance de los niños, No exponer a temperaturas mayores a 50 grados C, No perforar ni incinerar el envase, en caso de contacto con los ojos, enjuagar con abundante agua, solo para uso externo"
+    },
+    "imagenes": ["/catalogo/gas_img1.png", "/catalogo/gas_img2.png", "/catalogo/gas_img3.png"]
+  },
+
+        {
+    "id": 21,
+    "precio": 650,
+    "nombre": "Lampara Tactica",
+    "categorias": ["Accesorios para Seguridad", "Equipo Tactico"],
+    "descripcion": "Diseñada para maxima versatilidad y rendimiento en cualquier situacion, ideal para uso tactico, actividades al aire libre, trabajos de campo y emergencias ",
+    "especificaciones":{
+      "Marca": "Kampak",
+      "Modelo": "BL-805",
+      "Tipo": "Lampara/Linterna tactica led",
+      "Material" : "Aleacion de aluminio",
+      "Fuente de luz": "Led Frontal + COB lateral + UV",
+      "Modos de luz": "7 modos: Alto, Bajo, Estrobo, UV, COB blanco, COB rojo, COB estrobo",
+      "Encendido": "Boton lateral con indicador LED ",
+      "Bateria": "Bateria Interna Recargable",
+      "Carga": "USB tipo C",
+      "Resistencia al agua": "Resistente a lluvia y salpicaduras",
+      "Especificaciones de producto": "Longitud: 14.5 cm/ 16 cm ajustable, Diametro: 2.5 cm, Uso recomendado: Camping tactico, emergencia, trabajo, outdoor",
+      "Incluye": "lampara BL-805, cable USB-C"
+    },
+    "imagenes": ["/catalogo/linterna_img1.png", "/catalogo/linterna_img2.png", "/catalogo/linterna_img3.png", "/catalogo/linterna_img4.png"]
+  },
+
+        {
+    "id": 22,
+    "precio": 12500,
+    "nombre": "Chaleco Balistico",
+    "categorias": ["Accesorios para Seguridad", "Equipo Tactico"],
+    "descripcion": "Nivel de blindaje III-A",
+    "especificaciones":{
+      "Marca": "Armor Life Lab",
+      "Modelo": "Kodiak",
+      "Certificacion": "NIJ STD 0101.06",
+      "Garantia": "8 años en paneles balisticos y 18 meses en forro y funda exterior",
+      "Material de paneles": "Fibras arimedicas laminadas unidireccionales/polietireno tejidas",
+      "Cobertura": "Pecho, espalda, costado y hombros",
+      "Color": "Negro",
+      "Talla": "S, M, L, XL, XXL (Ajustables)",
+      "Impacto": "Detiene impacto de .337 hasta una velocidad de 448 m/seg y de magnum .44 SJHP  hasta una velocidad de 436 m/seg (Asi como cualquier calibre inferior)"
+    },
+    "imagenes": ["/catalogo/antibalas_img1.png"]
+  },
+
+        {
+    "id": 23,
+    "precio": 12500,
+    "nombre": "Placa Balistica",
+    "categorias": ["Accesorios para Seguridad", "Equipo Tactico"],
+    "descripcion": "Nivel de blindaje IV",
+    "especificaciones":{
+      "Marca": "Armor Life Lab",
+      "Modelo": "4S17",
+      "Certificacion":"NIJ STD 0101.06",
+      "Material": "Ceramica de Oxido de alumina stand alone con respaldo de polietileno",
+      "Resistencia": "De fusiles hasta 7,62 x 51 AP / .3006 AP AMP2",
+      "Forro": "Nylon 1000 deiner con tratamiento contra los rayos UV e impermeable",
+      "Garantia": "10 años en lo balistico y 18 meses en el forro",
+      "Color": "Negro",
+      "Peso (Aprox)": "2.9 kg C/U (puede variar)",
+      "Dimensiones (Aprox)": "25.2 x 30.5 cm (10 pulgadas x 12 pulgadas)",
+      "Grosor (Aprox)": "2.4 cm (0.95 pulgadas)",
+      "Curvatura": "Corte Sapi (Curvatura simple)"
+    },
+    "imagenes": ["/catalogo/placas_img1.png"]
+  },
+
+        {
+    "id": 24,
+    "precio": 1000,
+    "nombre": "Coderas tacticas para policia",
+    "categorias": ["Accesorios para Seguridad", "Equipo Tactico"],
+    "descripcion": "Hecho de tela oxford 900D impermeable, carcasa hecha con poliuretano termoplastico unico en forma de x, cojin suave en la cara interior, espuma de alta densidad para mayor absorcion de golpes",
+    "especificaciones":{
+      "Marca": "Protekta",
+      "Usos recomendados": "Militar/Policia, Paintball/Airsoft, Ciclismo, Motocross, Patinaje, Montañismo/Expedicion",
+      "Color": "Negro, Verde Militar, Coyote",
+      "Almohadillas de proteccion": "Almohadillas de ABS de alta densidad",
+      "Gancho y hebilla": "Cierre de gancho y lazo ajustable facil de poner/quitar",
+      "Uso": "Comodo, Forrado de esponja y diseño ergonomico",
+      "Medidas": "Ancho: 14 cm/ Alto: 17.5 cm/ Espesor: 2 cm(+/-)/ Correas: 26.5 cm",
+      "Peso": "400 g"
+    },
+    "imagenes": ["/catalogo/coderast_img1.png", "/catalogo/coderast_img2.png"]
+  },
+
+        {
+    "id": 25,
+    "precio": 1000,
+    "nombre": "Rodilleras tacticas para policia",
+    "categorias": ["Accesorios para Seguridad", "Equipo Tactico"],
+    "descripcion": "Hecho de tela oxford 900D impermeable, carcasa hecha con poliuretano termoplastico unico en forma de x, cojin suave en la cara interior, espuma de alta densidad para mayor absorcion de golpes",
+    "especificaciones":{
+      "Marca": "Protekta",
+      "Usos recomendados": "Militar/Policia, Paintball/Airsoft, Ciclismo, Motocross, Patinaje, Montañismo/Expedicion",
+      "Color": "Negro, Verde Militar, Coyote",
+      "Almohadillas de proteccion": "Almohadillas de ABS de alta densidad",
+      "Gancho y hebilla": "Cierre de gancho y lazo ajustable facil de poner/quitar",
+      "Uso": "Comodo, Forrado de esponja y diseño ergonomico",
+      "Medidas": "Ancho: 14 cm/ Alto: 17.5 cm/ Espesor: 2 cm(+/-)/ Correas: 26.5 cm",
+      "Peso": "400 g"
+    },
+    "imagenes": ["/catalogo/rodillerast_img1.png", "/catalogo/rodillerast_img2.png"]
+  },
+
+        {
+    "id": 26,
+    "precio": 450,
+    "nombre": "Pasamontañas",
+    "categorias": ["Uniformes"],
+    "descripcion": "Perfecto para uso tactico, brinda comodidad al usarse con cascos de moto",
+    "especificaciones":{
+      "Marca": "Protekta",
+      "Color": "Negro"
+    },
+    "imagenes": ["/catalogo/pasamontanas_img1.png"]
   }
+  
+
+
 ]
