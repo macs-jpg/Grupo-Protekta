@@ -16,6 +16,9 @@ function Navbar() {
         <Link to="/contacto" className="hover:text-primary transition">
           Contacto
         </Link>
+        <Link to="/noticias" className="hover:text-primary transition">
+          Noticias
+        </Link>
       </div>
 
       {/* Botón que abre menú desplegable */}
@@ -57,6 +60,13 @@ function Navbar() {
           className="hover:text-primary transition"
         >
           Contacto
+        </Link>
+        <Link
+          to="/noticias"
+          onClick={() => setMenuAbierto(false)}
+          className="hover:text-primary transition"
+        >
+          Noticias
         </Link>
       </div>
     </nav>
