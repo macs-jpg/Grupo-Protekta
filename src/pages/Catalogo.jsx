@@ -20,7 +20,7 @@ function Catalogo() {
   const [seleccioncat, setSeleccionCat] = useState([]);
   const [mostrarFiltros, setMostrarFiltros] = useState(false);
 
-  const productsxPag = 14;
+  const productsxPag = 15;
 
   const productosFiltrados = productos.filter((producto) => {
     const coincideBusqueda = producto.nombre.toLowerCase().includes(busqueda.toLowerCase());
