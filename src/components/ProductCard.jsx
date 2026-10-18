@@ -23,7 +23,7 @@ function ProductCard({ producto }) {
         {producto.precio ? (
           <div className="mt-3">
             <p className="text-primary font-bold text-2xl">
-              ${producto.precio.toLocaleString("es-MX")} MN
+              ${producto.precio.toLocaleString("es-MX")} MXN
             </p>
             <p className="text-muted text-xs mt-1">+ IVA</p>
           </div>

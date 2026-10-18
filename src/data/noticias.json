@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Entrega de torre",
+        "texto": "La semana pasada entregamos una torre de 40 metros galvanizada para el municipio de San Lucas Tecopilco en Tlaxcala. Agradecemos la confianza del ayuntamiento y las facilidades que nos dieron para la culminacion de este proyecto.",
+        "imagen": ["/noticias/id1_img1.jpeg"],
+        "fecha": "2026-07-07",
+        "linkFacebook": "https://www.facebook.com/share/p/1BT2Q3SwVz/",
+        "visible": true
+    },
+        {
+        "id": 2,
+        "titulo": "Capacitaciones de seguridad",
+        "texto": "Continuamos con las capacitaciones de seguridad en la planta Audi. Agradecemos la colaboracion de los participantes en estas sesiones.",
+        "imagen": ["/noticias/id2_img1.jpeg"],
+        "fecha": "2026-08-24",
+        "linkFacebook": "https://www.facebook.com/share/p/1CFVw7qbab/",
+        "visible": true
+    },
+        {
+        "id": 3,
+        "titulo": "Capacitacion en linea",
+        "texto": "El dia de hoy tuvimos capacitacion en linea con supervisores de seguridad",
+        "imagen": ["/noticias/id3_img1.jpeg"],
+        "fecha": "2026-08-23",
+        "linkFacebook": "https://www.facebook.com/share/p/19AU5zAkzB/",
+        "visible": true
+    },
+        {
+        "id": 4,
+        "titulo": "Entrega de equipos de radiocomunicacion",
+        "texto": "El dia de ayer estuvimos entregando e instalando equipos de Radiocomunicacion con el Ayuntamiento de Olinala, Guerero. Agradecemos todas las atenciones del municipio para el desarrollo de las actividades.",
+        "imagen": ["/noticias/id4_img1.jpeg"],
+        "fecha": "2026-08-17",
+        "linkFacebook": "https://www.facebook.com/share/p/1BT2Q3SwVz/",
+        "visible": true
+    },
+        {
+        "id": 5,
+        "titulo": "Entrega de uniforme",
+        "texto": "Entrega de uniformes para nuestro cliente del municipio de Axocomanitla",
+        "imagen": ["/noticias/id5_img1.jpeg", "/noticias/id5_img2.jpeg", "/noticias/id5_img3.jpeg", "/noticias/id5_img4.jpeg", "/noticias/id5_img5.jpeg", "/noticias/id5_img6.jpeg"],
+        "fecha": "2026-03-06",
+        "linkFacebook": "https://www.facebook.com/share/p/18FSp2EAr8/",
+        "visible": true
+    },
+        {
+        "id": 6,
+        "titulo": "Mantenimiento y reparacion",
+        "texto": "Mantenimiento y reparacion de Puntos de monitoreo inteligentes (PMI) para nuestros clientes del Municipio de Tepeyahualco de Cuauhtemoc.",
+        "imagen": ["/noticias/id6_img1.jpeg", "/noticias/id6_img2.jpeg", "/noticias/id6_img3.jpeg", "/noticias/id6_img4.jpeg", "/noticias/id6_img5.jpeg", "/noticias/id6_img6.jpeg", "/noticias/id6_img7.jpeg", "/noticias/id6_img8.jpeg", "/noticias/id6_img9.jpeg", "/noticias/id6_img10.jpeg", "/noticias/id6_img11.jpeg"],
+        "fecha": "2026-03-06",
+        "linkFacebook": "https://www.facebook.com/share/p/1EwZdzHJ7u/",
+        "visible": true
+        }
+]

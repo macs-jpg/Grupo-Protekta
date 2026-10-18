@@ -5,7 +5,8 @@ import Home from "./pages/Home.jsx";
 import Catalogo from "./pages/Catalogo.jsx";
 import Contacto from "./pages/Contacto.jsx";
 import ProductoDetalle from "./pages/ProductoDetalle.jsx";
-//import Noticias from './pages/Noticias.jsx'
+import Noticias from './pages/Noticias.jsx'
+import NoticiaDetalle from './pages/NoticiaDetalle.jsx'
 import { FaWhatsapp } from "react-icons/fa";
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
           <Route path="/catalogo" element={<Catalogo />} />
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/catalogo/:id" element={<ProductoDetalle />} />
-          {/* <Route path="/noticias" element={<Noticias />} /> */}
+          <Route path="/noticias" element={<Noticias />} />
+          <Route path="/noticias/:id" element={<NoticiaDetalle />} />
         </Routes>
       </main>
       <Footer />
